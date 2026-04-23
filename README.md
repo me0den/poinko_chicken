@@ -1,6 +1,6 @@
 # Poinko Chicken Meme Collection
 
-235 images across 8 packs — static PNGs, WEBPs, and animated GIFs.
+467 images across 12 packs — static PNGs, WEBPs, and animated GIFs.
 
 ---
 
@@ -383,5 +383,362 @@
 <td><img src="poinko-2-animated/sticker_28.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_29.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_30.gif" width="100"/></td>
+</tr>
+</table>
+
+---
+
+## Cult of Poinco — 161 images
+
+<table>
+<tr>
+<td><img src="cultofthepoinco/angry_with_tight_fist.gif" width="100"/></td>
+<td><img src="cultofthepoinco/astonished_with_mouth_open.gif" width="100"/></td>
+<td><img src="cultofthepoinco/beat_up_butt.gif" width="100"/></td>
+<td><img src="cultofthepoinco/beat_with_pan.gif" width="100"/></td>
+<td><img src="cultofthepoinco/beg.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/beg_for_food.gif" width="100"/></td>
+<td><img src="cultofthepoinco/black_cat_on_back.gif" width="100"/></td>
+<td><img src="cultofthepoinco/black_eye.gif" width="100"/></td>
+<td><img src="cultofthepoinco/blink.gif" width="100"/></td>
+<td><img src="cultofthepoinco/bow.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/boxing.gif" width="100"/></td>
+<td><img src="cultofthepoinco/caterpillar.gif" width="100"/></td>
+<td><img src="cultofthepoinco/change_mask.gif" width="100"/></td>
+<td><img src="cultofthepoinco/chasing.gif" width="100"/></td>
+<td><img src="cultofthepoinco/clean_pee.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/clipped_in_air.gif" width="100"/></td>
+<td><img src="cultofthepoinco/clown_celebrate.gif" width="100"/></td>
+<td><img src="cultofthepoinco/count_money.gif" width="100"/></td>
+<td><img src="cultofthepoinco/crawl.gif" width="100"/></td>
+<td><img src="cultofthepoinco/creep_around.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/cry.gif" width="100"/></td>
+<td><img src="cultofthepoinco/cry_with_tantrum.gif" width="100"/></td>
+<td><img src="cultofthepoinco/cupids_arrow.gif" width="100"/></td>
+<td><img src="cultofthepoinco/cutting_cucumber.gif" width="100"/></td>
+<td><img src="cultofthepoinco/dance.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/disbelief.gif" width="100"/></td>
+<td><img src="cultofthepoinco/drink_bubble_tea.gif" width="100"/></td>
+<td><img src="cultofthepoinco/drown_in_tear.gif" width="100"/></td>
+<td><img src="cultofthepoinco/drowning_sorrows.gif" width="100"/></td>
+<td><img src="cultofthepoinco/duo_ride_dinosaur.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/eat_chips.gif" width="100"/></td>
+<td><img src="cultofthepoinco/eat_noodle.gif" width="100"/></td>
+<td><img src="cultofthepoinco/eat_popcorn.gif" width="100"/></td>
+<td><img src="cultofthepoinco/eat_watermelon.gif" width="100"/></td>
+<td><img src="cultofthepoinco/emerge_from_desk.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/fairy_wand.gif" width="100"/></td>
+<td><img src="cultofthepoinco/fat_dance.gif" width="100"/></td>
+<td><img src="cultofthepoinco/fidgeting.gif" width="100"/></td>
+<td><img src="cultofthepoinco/fighting.gif" width="100"/></td>
+<td><img src="cultofthepoinco/flossing.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/gentalman.gif" width="100"/></td>
+<td><img src="cultofthepoinco/gonging.gif" width="100"/></td>
+<td><img src="cultofthepoinco/halloween.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hand_puppet.gif" width="100"/></td>
+<td><img src="cultofthepoinco/handle_balloon.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/hang_on_rope.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hide_in_quilt.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hit_head.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hold_balloon.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hold_fish_balloon.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/hold_thighs.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hooded_eyes.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hug.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hula_hoop.gif" width="100"/></td>
+<td><img src="cultofthepoinco/hypocrite.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/jump_around.gif" width="100"/></td>
+<td><img src="cultofthepoinco/knock_bowl.gif" width="100"/></td>
+<td><img src="cultofthepoinco/knock_rice_bow.gif" width="100"/></td>
+<td><img src="cultofthepoinco/lean_face_on_desk.gif" width="100"/></td>
+<td><img src="cultofthepoinco/lie_on_side.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/lift_beat_up.gif" width="100"/></td>
+<td><img src="cultofthepoinco/look_left.gif" width="100"/></td>
+<td><img src="cultofthepoinco/magnifier_on_eye.gif" width="100"/></td>
+<td><img src="cultofthepoinco/monk.gif" width="100"/></td>
+<td><img src="cultofthepoinco/monroe.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/nod.gif" width="100"/></td>
+<td><img src="cultofthepoinco/nuzzling.gif" width="100"/></td>
+<td><img src="cultofthepoinco/parrot_swing.gif" width="100"/></td>
+<td><img src="cultofthepoinco/party_horn.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_airplane.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/play_ball.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_basketball.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_bear_doll.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_cat.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_cymbals.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/play_drum_kit.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_phone_doubtedly.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_phone_sadly.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_piano.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_skateboard.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/play_ukulele.gif" width="100"/></td>
+<td><img src="cultofthepoinco/play_violin.gif" width="100"/></td>
+<td><img src="cultofthepoinco/pogo_stick.gif" width="100"/></td>
+<td><img src="cultofthepoinco/poke_with_fork.gif" width="100"/></td>
+<td><img src="cultofthepoinco/pour_tea.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/pull_belly.gif" width="100"/></td>
+<td><img src="cultofthepoinco/punch.gif" width="100"/></td>
+<td><img src="cultofthepoinco/punch_screen.gif" width="100"/></td>
+<td><img src="cultofthepoinco/push_maple_button.gif" width="100"/></td>
+<td><img src="cultofthepoinco/reclining_on_bench.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/ride_bike_with_balloon.gif" width="100"/></td>
+<td><img src="cultofthepoinco/ride_bike_with_struggle.gif" width="100"/></td>
+<td><img src="cultofthepoinco/ride_dinosaur.gif" width="100"/></td>
+<td><img src="cultofthepoinco/ride_on_cloud.gif" width="100"/></td>
+<td><img src="cultofthepoinco/ride_trolley.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/rifle.gif" width="100"/></td>
+<td><img src="cultofthepoinco/ring_bell.gif" width="100"/></td>
+<td><img src="cultofthepoinco/rocking_chair.gif" width="100"/></td>
+<td><img src="cultofthepoinco/rocking_horse.gif" width="100"/></td>
+<td><img src="cultofthepoinco/roll_eye.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/roll_eyes.gif" width="100"/></td>
+<td><img src="cultofthepoinco/rolling_forward.gif" width="100"/></td>
+<td><img src="cultofthepoinco/rope_skipping.gif" width="100"/></td>
+<td><img src="cultofthepoinco/rub_hands.gif" width="100"/></td>
+<td><img src="cultofthepoinco/run_in_rain.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/run_with_baby_suit.gif" width="100"/></td>
+<td><img src="cultofthepoinco/running_fast.gif" width="100"/></td>
+<td><img src="cultofthepoinco/rush_to_work.gif" width="100"/></td>
+<td><img src="cultofthepoinco/scooter.gif" width="100"/></td>
+<td><img src="cultofthepoinco/scratch_head.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/scroll_phone.gif" width="100"/></td>
+<td><img src="cultofthepoinco/shake_coke.gif" width="100"/></td>
+<td><img src="cultofthepoinco/shake_feet_hold_phone.gif" width="100"/></td>
+<td><img src="cultofthepoinco/shake_head_clap_hand.gif" width="100"/></td>
+<td><img src="cultofthepoinco/sharpen_knife.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/shop_groceries.gif" width="100"/></td>
+<td><img src="cultofthepoinco/show_rose.gif" width="100"/></td>
+<td><img src="cultofthepoinco/singing.gif" width="100"/></td>
+<td><img src="cultofthepoinco/sit_on_chair.gif" width="100"/></td>
+<td><img src="cultofthepoinco/skateboard.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/sleep.gif" width="100"/></td>
+<td><img src="cultofthepoinco/sleep_with_patch.gif" width="100"/></td>
+<td><img src="cultofthepoinco/sneaking.gif" width="100"/></td>
+<td><img src="cultofthepoinco/soak_in_bath.gif" width="100"/></td>
+<td><img src="cultofthepoinco/soaring.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/spin_on_chair.gif" width="100"/></td>
+<td><img src="cultofthepoinco/splash.gif" width="100"/></td>
+<td><img src="cultofthepoinco/spring_bounce.gif" width="100"/></td>
+<td><img src="cultofthepoinco/sprinting.gif" width="100"/></td>
+<td><img src="cultofthepoinco/spurt_flame.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/stay_in_garbage_bin.gif" width="100"/></td>
+<td><img src="cultofthepoinco/stomp.gif" width="100"/></td>
+<td><img src="cultofthepoinco/struggle_on_treadmill.gif" width="100"/></td>
+<td><img src="cultofthepoinco/stuffy_nose.gif" width="100"/></td>
+<td><img src="cultofthepoinco/supine.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/sway_with_flowers.gif" width="100"/></td>
+<td><img src="cultofthepoinco/swaying_hand.gif" width="100"/></td>
+<td><img src="cultofthepoinco/sweep_floor.gif" width="100"/></td>
+<td><img src="cultofthepoinco/swing_body.gif" width="100"/></td>
+<td><img src="cultofthepoinco/swing_money.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/swollen_belly.gif" width="100"/></td>
+<td><img src="cultofthepoinco/swordman_cosplay.gif" width="100"/></td>
+<td><img src="cultofthepoinco/throw_grenade.gif" width="100"/></td>
+<td><img src="cultofthepoinco/throw_heart.gif" width="100"/></td>
+<td><img src="cultofthepoinco/thump_chest.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/turn_steering_wheel.gif" width="100"/></td>
+<td><img src="cultofthepoinco/turning_happily.gif" width="100"/></td>
+<td><img src="cultofthepoinco/urge_for_food.gif" width="100"/></td>
+<td><img src="cultofthepoinco/wagging_tongue.gif" width="100"/></td>
+<td><img src="cultofthepoinco/walk_happily.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/walk_slowly.gif" width="100"/></td>
+<td><img src="cultofthepoinco/walk_swiftly.gif" width="100"/></td>
+<td><img src="cultofthepoinco/walk_with_knife.gif" width="100"/></td>
+<td><img src="cultofthepoinco/wash_cloth.gif" width="100"/></td>
+<td><img src="cultofthepoinco/wash_cloth_unwillingly.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/wiggle_body.gif" width="100"/></td>
+<td><img src="cultofthepoinco/wink_in_mirror.gif" width="100"/></td>
+<td><img src="cultofthepoinco/witcher.gif" width="100"/></td>
+<td><img src="cultofthepoinco/work_with_laptop.gif" width="100"/></td>
+<td><img src="cultofthepoinco/workout_with_dumbbell.gif" width="100"/></td>
+</tr>
+<tr>
+<td><img src="cultofthepoinco/wrapped_in_quilt.gif" width="100"/></td>
+</tr>
+</table>
+
+---
+
+## Sigstick — Docomo Chicken — 24 images
+
+<table>
+<tr>
+<td><img src="sigstick-docomo-chicken/0.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/1.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/2.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/3.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/4.png" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-docomo-chicken/5.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/6.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/7.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/8.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/9.png" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-docomo-chicken/10.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/11.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/12.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/13.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/14.png" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-docomo-chicken/15.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/16.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/17.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/18.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/19.png" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-docomo-chicken/20.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/21.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/22.png" width="100"/></td>
+<td><img src="sigstick-docomo-chicken/23.png" width="100"/></td>
+</tr>
+</table>
+
+---
+
+## Sigstick — Poinko 4 — 24 images
+
+<table>
+<tr>
+<td><img src="sigstick-poinko-4/0.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/1.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/2.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/3.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/4.webp" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-poinko-4/5.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/6.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/7.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/8.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/9.webp" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-poinko-4/10.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/11.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/12.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/13.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/14.webp" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-poinko-4/15.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/16.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/17.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/18.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/19.webp" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-poinko-4/20.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/21.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/22.webp" width="100"/></td>
+<td><img src="sigstick-poinko-4/23.webp" width="100"/></td>
+</tr>
+</table>
+
+---
+
+## Sigstick — Poinko 5 — 24 images
+
+<table>
+<tr>
+<td><img src="sigstick-poinko-5/0.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/1.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/2.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/3.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/4.webp" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-poinko-5/5.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/6.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/7.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/8.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/9.webp" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-poinko-5/10.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/11.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/12.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/13.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/14.webp" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-poinko-5/15.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/16.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/17.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/18.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/19.webp" width="100"/></td>
+</tr>
+<tr>
+<td><img src="sigstick-poinko-5/20.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/21.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/22.webp" width="100"/></td>
+<td><img src="sigstick-poinko-5/23.webp" width="100"/></td>
 </tr>
 </table>
