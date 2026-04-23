@@ -340,7 +340,7 @@
 
 ---
 
-## Poinko 2 Animated — 30 images
+## Poinko 2 Animated — 29 images
 
 <table>
 <tr>
@@ -359,27 +359,26 @@
 </tr>
 <tr>
 <td><img src="poinko-2-animated/sticker_11.gif" width="100"/></td>
-<td><img src="poinko-2-animated/sticker_12.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_13.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_14.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_15.gif" width="100"/></td>
+<td><img src="poinko-2-animated/sticker_16.gif" width="100"/></td>
 </tr>
 <tr>
-<td><img src="poinko-2-animated/sticker_16.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_17.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_18.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_19.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_20.gif" width="100"/></td>
+<td><img src="poinko-2-animated/sticker_21.gif" width="100"/></td>
 </tr>
 <tr>
-<td><img src="poinko-2-animated/sticker_21.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_22.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_23.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_24.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_25.gif" width="100"/></td>
+<td><img src="poinko-2-animated/sticker_26.gif" width="100"/></td>
 </tr>
 <tr>
-<td><img src="poinko-2-animated/sticker_26.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_27.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_28.gif" width="100"/></td>
 <td><img src="poinko-2-animated/sticker_29.gif" width="100"/></td>
